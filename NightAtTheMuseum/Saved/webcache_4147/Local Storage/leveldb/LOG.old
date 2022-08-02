@@ -1,3 +1,6 @@
-2022/07/31-19:39:11.877 3fa0 Reusing MANIFEST D:/hikariUE4C-/NightAtTheMuseum/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
-2022/07/31-19:39:11.878 3fa0 Recovering log #3
-2022/07/31-19:39:11.878 3fa0 Reusing old log D:/hikariUE4C-/NightAtTheMuseum/Saved/webcache_4147\Local Storage\leveldb/000003.log 
+2022/08/01-23:05:40.761 20a8 Reusing MANIFEST D:/hikariUE4C-/NightAtTheMuseum/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
+2022/08/01-23:05:40.761 20a8 Recovering log #3
+2022/08/01-23:05:40.774 20a8 Reusing old log D:/hikariUE4C-/NightAtTheMuseum/Saved/webcache_4147\Local Storage\leveldb/000003.log 
+2022/08/01-23:07:40.801 41e4 Level-0 table #5: started
+2022/08/01-23:07:40.884 41e4 Level-0 table #5: 12199 bytes OK
+2022/08/01-23:07:40.956 41e4 Delete type=0 #3
