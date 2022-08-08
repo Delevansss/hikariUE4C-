@@ -1,7 +1,0 @@
-2022/08/07-15:43:46.873 241c Reusing MANIFEST D:/hikariUE4C-/NightAtTheMuseum/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/07-15:43:46.878 241c Recovering log #3
-2022/08/07-15:43:46.943 241c Reusing old log D:/hikariUE4C-/NightAtTheMuseum/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
-2022/08/07-15:43:47.722 465c Level-0 table #5: started
-2022/08/07-15:43:47.913 465c Level-0 table #5: 13486 bytes OK
-2022/08/07-15:43:47.997 465c Delete type=0 #3
-2022/08/07-15:43:47.998 465c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
